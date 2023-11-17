@@ -1,7 +1,5 @@
 # Angular App
 
-[![wakatime](https://wakatime.com/badge/github/ehsanghaffarii/lanjrud-angular.svg)](https://wakatime.com/badge/github/ehsanghaffarii/lanjrud-angular)
-
 Example app with Angular 12 + Angular CLI + Bootstarp 5
 
 [Demo](https://www.lanjrud.ir)
